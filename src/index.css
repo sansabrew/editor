@@ -154,5 +154,41 @@
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: rgba(150, 150, 150, 0.45);
+  background: rgba(212, 255, 50, 0.5);
 }
+
+/* Movia Neon-Lime Visual Identity & Studio Styles */
+:root {
+  --movia-lime: #d4ff32;
+  --movia-lime-hover: #bbf438;
+  --movia-lime-dim: rgba(212, 255, 50, 0.15);
+  --movia-dark-950: #0a0b0e;
+  --movia-dark-900: #111317;
+  --movia-dark-850: #171920;
+  --movia-dark-800: #1f222b;
+}
+
+.bg-movia-lime {
+  background-color: #d4ff32;
+}
+
+.hover\:bg-movia-lime-hover:hover {
+  background-color: #bbf438;
+}
+
+.text-movia-lime {
+  color: #d4ff32;
+}
+
+.border-movia-lime {
+  border-color: #d4ff32;
+}
+
+.shadow-movia-glow {
+  box-shadow: 0 0 24px rgba(212, 255, 50, 0.35);
+}
+
+.shadow-movia-glow-sm {
+  box-shadow: 0 0 12px rgba(212, 255, 50, 0.25);
+}
+

@@ -1,6 +1,6 @@
 {
-  "name": "Editor",
-  "description": "A distraction-free markdown and code editor with live split preview, formatting tools, document management, search and replace, and export features.",
+  "name": "Movia — Editor de Vídeo IA",
+  "description": "Plataforma profissional de edição de vídeo com IA, timeline multitrack, storyboard cinematográfico, síntese de áudio generativo e exportação em tempo real.",
   "requestFramePermissions": [],
   "majorCapabilities": [
     "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
